@@ -1,0 +1,7 @@
+{
+    "name": "annotorious-selector-pack",
+    "version": "0.0.1",
+    "description": "Various Annotorious plugins that add additional image selection tools",
+    "main": "src/fancy_box_selector.js",
+    "author": "Rainer Simon"
+}
