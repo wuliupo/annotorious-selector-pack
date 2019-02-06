@@ -3,5 +3,15 @@
     "version": "0.0.1",
     "description": "Various Annotorious plugins that add additional image selection tools",
     "main": "src/fancy_box_selector.js",
-    "author": "Rainer Simon"
+    "repository": "https://github.com/annotorious/annotorious-selector-pack.git",
+    "license": "MIT",
+    "author": "Rainer Simon",
+    "keywords": [
+        "annotorious selector pack",
+        "annotorious directed selector",
+        "annotorious fancy box selector",
+        "annotorious freehand selector",
+        "annotorious polygon selector",
+        "annotorious toponym selector"
+    ]
 }
